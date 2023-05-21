@@ -93,3 +93,37 @@ form {
   transform: scale(1.1);
   transition: 0.5s;
 }
+.footer {
+  background-color: black;
+  color: white;
+  border-top: 20px solid white;
+}
+.footer-container {
+  margin-top: 10px;
+  padding: 30px;
+  justify-content: space-between;
+  display: flex;
+  gap: 1rem;
+}
+.footer-container .footer-box {
+  display: flex;
+  flex-direction: column;
+}
+.social {
+  align-items: center;
+  display: flex;
+}
+.social p {
+  font-size: 24px;
+  margin-right: 1rem;
+}
+.social :hover {
+  color: red;
+}
+.copyright {
+  padding: 20px;
+  text-align: center;
+}
+.footer h1 {
+  text-align: center;
+}
