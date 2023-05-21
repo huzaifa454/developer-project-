@@ -20,7 +20,7 @@
   min-height: 599px;
   display: flex;
   align-items: center;
-  background: url(Background-home.png);
+  background: url('https://stackblitz.com/files/web-platform-cxaowt/github/huzaifa454/developer-project-/main/Background-home.png');
   background-repeat: no-repeat;
   background-position: center left;
   background-size: cover;
