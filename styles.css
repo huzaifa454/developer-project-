@@ -105,7 +105,7 @@ form {
   display: flex;
   gap: 1rem;
 }
-.footer-container .footer-box {
+.footer-container .footer-Box {
   display: flex;
   flex-direction: column;
 }
